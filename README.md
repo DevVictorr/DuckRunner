@@ -5,7 +5,7 @@
 - **Menu inicial** com opções para jogar, ligar / desligar musica de fundo e sair.
 - **Jogabilidade**: O jogador pode correr para a esquerda e direita, pular.
 - **Dificuldade** Dificuldade aumenta ao coletar 18 pontos.
-- **Avião inimigo**: No inicio do jogo temos um avião aparecee começa a disparar tiros para baixo.
+- **Avião inimigo**: No inicio do jogo temos um avião que aparece e começa a disparar tiros para baixo.
 - **Imunidade**: Após uma colisão com um obstáculo, o jogador fica temporariamente invencível.
 
 ## Requisitos
